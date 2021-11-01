@@ -1,5 +1,5 @@
 # Sales Management with PowerBI
-This project will showcase a business request for an executive sales report from a sales manager. Based on the request made from the client, we define their story to fulfill delivery and ensure that acceptance criteria's were maintained throught the project.
+This project showcases a business request for an executive sales report from a sales manager. Based on the request made from the client, we define their story to fulfill delivery and ensure that acceptance criteria's were maintained through the project.
 
 ## Business Request
 The inital request from our client. We highlight what the requests are to create a plan of what they need.
