@@ -20,7 +20,6 @@ Below are the SQL statements for cleansing and transforming necessary data.
 ### DIM_Calendar
 <details>
   <p>
-    ```python
     -- Cleansing DIM_DateTable --
 SELECT 
   [DateKey], 
@@ -37,3 +36,4 @@ FROM
   [AdventureWorksDW2019].[dbo].[DimDate] 
 WHERE 
   CalendarYear >= 2019
+  </p>
