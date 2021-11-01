@@ -6,5 +6,4 @@ We breakdown who the requestee is, the request/demand, the value, and the accept
 
 | No# | As a (role) | I want (request/demand) | So that I (user value) | Acceptance Criteria |
 --- | --- | --- | --- | --- 
-
-1 | Sales Mananger | To get a dashboard overview of internet sales | Can follow better which customers and products sells the best | A Power BI dashboard which updates data once a day
+| 1 | Sales Mananger | To get a dashboard overview of internet sales | Can follow better which customers and products sells the best | A Power BI dashboard which updates data once a day |
