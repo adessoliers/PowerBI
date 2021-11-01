@@ -10,3 +10,10 @@ We create breakdown overview of what the requestees wants and needs to fulfill t
 | 2 | Sales Mananger | To get a dashboard overview of internet sales | Follow sales over time against budget | A power BI dashboard with graphs and KPIs comparing against budget |
 | 3 | Sales Representative | A detailed overview of Internet Sales per customers | Can follow up my customers that buys the most and who we can sell more to | A Power BI dashboard which allows me to filter data for each customer |
 | 4 | Sales Representative | A detailed overview of internet sales per product | Can follow up my products that sells the most | Power BI dashboard which allows me to filter data for each product |
+
+## Data Cleansing & Transformation (SQL)
+To create the necessary data model for analysis and fulfilling business needs, the following tables were extracted using SQL.
+
+Below are the SQL statements for cleansing and transforming necessary data.
+
+### DIM_Calendar:
