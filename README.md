@@ -16,9 +16,14 @@ To create the necessary data model for analysis and fulfilling business needs, t
 
 Below are the SQL statements for cleansing and transforming necessary data.
 
-### DIM_Calendar:
-
--- Cleansing DIM_DateTable --
+<details>
+  <summary>
+    
+### DIM_Calendar
+  </summary>
+  <p>
+    ```python
+    -- Cleansing DIM_DateTable --
 SELECT 
   [DateKey], 
   [FullDateAlternateKey] AS Date, 
