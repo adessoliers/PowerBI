@@ -17,19 +17,19 @@ To create the necessary data model for analysis and fulfilling business needs, t
 Below are the SQL statements for cleansing and transforming necessary data.
 
 
-### DIM_Calendar
+### DIM_Calendar:
 <details>
   
 ![carbon](https://user-images.githubusercontent.com/70506634/139749481-a5847a01-4178-485c-8323-9410d4581e13.png)
   </details>
   
-### DIM_Customers
+### DIM_Customers:
 <details>
   
 ![carbon](https://user-images.githubusercontent.com/70506634/139749758-a5af367b-1e35-447f-b53b-369fd665e85a.png)
 </details>
   
-### DIM_Products
+### DIM_Products:
 <details>
 ![DIM_Products](https://user-images.githubusercontent.com/70506634/139749856-9105f915-81e8-4fc7-9ac4-34ca449e561b.png)
   </details>
