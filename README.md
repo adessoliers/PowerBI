@@ -2,6 +2,9 @@
 This project will showcase a business request for an executive sales report from a sales manager. Based on the request made from the client, we define their story to fulfill delivery and ensure that acceptance criteria's were maintained throught the project.
 
 ## Business Request
+The inital request from our client. We highlight what the requests are to create a plan of what they need.
+![RequestLetter](https://user-images.githubusercontent.com/70506634/139752448-b6743d6b-fc69-4084-b772-82cf8a54001c.png)
+
 We create breakdown overview of what the requestees wants and needs to fulfill the acceptance criteria.
 
 | No# | As a (role) | I want (request/demand) | So that I (user value) | Acceptance Criteria |
