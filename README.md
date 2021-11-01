@@ -50,7 +50,7 @@ This is an Entity Relational Diagram showing the connection of the dimensions an
   ![ERD](https://user-images.githubusercontent.com/70506634/139750485-ab8e3f71-2067-421f-88d3-0b807edb51c7.png)
 </details>
 
-## Sales Management Dashboard
+## Sales Management Dashboard (PowerBI)
 An image of the finished sales management dashboard and overview showing necessary details and visualizations to show sales over time, per customer, and per products.
 <details>
   <summary>Sales Overview</summary>
