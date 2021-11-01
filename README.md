@@ -54,7 +54,7 @@ This is an Entity Relational Diagram showing the connection of the dimensions an
 An image of the finished sales management dashboard and overview showing necessary details and visualizations to show sales over time, per customer, and per products.
 <details>
   
-  [Sales_Report_Dashboards.pdf](https://github.com/adessoliers/PowerBI/files/7456531/Sales_Report_Dashboards.pdf)
+  file:///C:/Users/alexd/Downloads/Sales_Report_Dashboards%20(1).pdf
   </details
 
 
