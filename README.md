@@ -42,9 +42,9 @@ Below are the SQL statements for cleansing and transforming necessary data.
 </details>
 
 ## Data Model
-Below is a screenshot of the data model aftger cleansed and preparted tables were read into Power BI.
+Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
-This data model shows FACT_Budget connected to FACT_InternetSales and other necessary dimension tables.
+This is an Entity Relational Diagram showing the connection of the dimensions and fact tables with one another.
 <details>
   
   ![ERD](https://user-images.githubusercontent.com/70506634/139750485-ab8e3f71-2067-421f-88d3-0b807edb51c7.png)
