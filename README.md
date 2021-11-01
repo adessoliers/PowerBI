@@ -19,4 +19,5 @@ Below are the SQL statements for cleansing and transforming necessary data.
 
 ### DIM_Calendar
 <details>
-![DIM_calendar](https://user-images.githubusercontent.com/70506634/139749242-74bda710-83e4-463c-af08-756105877c8a.png)
+
+![DIM_calendar](https://user-images.githubusercontent.com/70506634/139749367-677765c3-7d6f-4a28-bfa4-4099b541cd0a.png)
