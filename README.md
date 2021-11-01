@@ -21,7 +21,7 @@ Below are the SQL statements for cleansing and transforming necessary data.
 <details>
   
 ![carbon](https://user-images.githubusercontent.com/70506634/139749481-a5847a01-4178-485c-8323-9410d4581e13.png)
-  
+  </details>
   
 ### DIM_Customers
 <details>
