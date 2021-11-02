@@ -2,10 +2,10 @@
 This project showcases a business request for an executive sales report from a sales manager. Based on the request made from the client, I defined their story to fulfill delivery and ensure that acceptance criteria's were maintained through the project.
 
 ## Business Request
-The inital request from the client. I highlight what the requests are to create a plan of what they need.
+Here is the inital request from the client. I highlight what the requests are to create a plan of what they need.
 ![RequestLetter](https://user-images.githubusercontent.com/70506634/139752448-b6743d6b-fc69-4084-b772-82cf8a54001c.png)
 
-We create breakdown overview of what the requestees wants and needs to fulfill the acceptance criteria.
+I then create an overview to breakdown each point of the requests that need to be fulfilled.
 
 | No# | As a (role) | I want (request/demand) | So that I (user value) | Acceptance Criteria |
 --- | --- | --- | --- | --- 
@@ -43,7 +43,7 @@ Below are the SQL statements for cleansing and transforming necessary data.
   ![FACT_InternetSales](https://user-images.githubusercontent.com/70506634/139750247-e35baed5-1526-45d0-bfed-6cf9d3660d4f.png)
 </details>
 
-## Data Model
+## The Data Model
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
 This is an Entity Relational Diagram showing the connection of the dimensions and fact tables with one another.
@@ -54,7 +54,7 @@ This is an Entity Relational Diagram showing the connection of the dimensions an
 </details>
 
 ## Sales Management Dashboard (PowerBI)
-An image of the finished sales management dashboard and overview showing necessary details and visualizations to show sales over time, per customer, and per products.
+Here is the finished sales management dashboard and overview showing necessary details and visualizations presenting sales over time, per customer, and per products.
 <details>
   <summary>Sales Overview</summary>
   
